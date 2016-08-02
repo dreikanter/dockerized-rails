@@ -1,4 +1,4 @@
-README
+# Sample Docker configuration for Rails project
 
 Build:
 
